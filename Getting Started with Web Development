@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Ian Rex Exanes</title
+</head>
+
+  <body>
+    <header>
+      <h1>Ian Rex Exanes</h1>
+      <nav>
+        <a href="/home/">Home</a> |
+        <a href="/About Me/">About Me</a> |
+        <a href="/Services/">Services</a> |
+        <a href="/Contact Me/">Contact Me</a> |
+      </nav>
+    </header>
+      <img src = "HAHAHAHA.jpg" alt = "Picture of Ian Pogi the Gwapings" width = "300">
+      <p>Hello, I am <strong>Ian Rex Exanes</strong>, an aspiring web developer <i>learning</i> <em>web development</em>. I'd like to learn coding, programming and design. I am glad we meet here. Please contact me if you like</p>
+
+      <h2>Here are my sample projects:</h2>
+
+        <ol>
+
+          <li>Project 1 - My Portfolio</li>
+          <li>Project 2 - My Business Website</li>
+
+        </ol>
+
+      <h3>My Skills:</h3>
+
+        <p>HTML, CSS, JavaScript, Bootstratp, Angular, WordPress</p>
+
+      <h4>Please Contact Me:</h4>
+
+        <p>ianrexexanes@gmail.com</p>
+
+    <footer>
+      <p>&copy; Copyright and Trademark by <a href = "https://ph.linkedin.com/in/ianrexexanes" target = "blank">Ian Rex Exanes</a> &trade; 2024</p>
+    </footer>
+  </body>
+
+</html>
